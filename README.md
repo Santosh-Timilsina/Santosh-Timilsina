@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-Santosh-Timilsina/Santosh-Timilsina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+stimilsina24/stimilsina24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
